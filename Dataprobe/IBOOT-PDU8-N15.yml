@@ -4,38 +4,38 @@ cells:
   OUTLET-1:
     dataRef: "power_status:outlet:1"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
   OUTLET-2:
     dataRef: "power_status:outlet:2"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
   OUTLET-3:
     dataRef: "power_status:outlet:3"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
   OUTLET-4:
     dataRef: "power_status:outlet:4"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
   OUTLET-5:
     dataRef: "power_status:outlet:5"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
   OUTLET-6:
     dataRef: "power_status:outlet:6"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
     label: 
   OUTLET-7:
     dataRef: "power_status:outlet:7"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
   OUTLET-8:
     dataRef: "power_status:outlet:8"
     fillColor:
-      thresholdRef: "status"
+      thresholdsRef: "status"
 
   eth0:
     dataRef: "interface_status:eth0"
     fillColor:
-      thresholdRef: "interface_status"
+      thresholdsRef: "interface_status"
