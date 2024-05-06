@@ -1,11 +1,9 @@
 ---
-#------------------------------------------------------------------------------
-# YAML Aliases to simplify maintenance
-anchorLinks:
-  - threshold: &status
+thresholds:
+  status:
     - {color: "red", level: 0}
     - {color: "green", level: 1}
-  - threshold: &interface_status
+  interface_status:
     - {color: "blue", level: 0}
     - {color: "red", level: 1}
     - {color: "red", level: 10}
